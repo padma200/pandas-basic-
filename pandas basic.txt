@@ -1,0 +1,6 @@
+brics.index = ["BR", "RU", "IN", "CH", "SA"]
+
+
+# Print out brics with new index values
+
+print(brics)
